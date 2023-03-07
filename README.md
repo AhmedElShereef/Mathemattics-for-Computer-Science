@@ -1,1 +1,1 @@
-# Discrete-Mathematics
+# Discrete-Mathematics & Mathematical Proofs notes
